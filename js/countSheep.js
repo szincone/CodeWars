@@ -2,6 +2,7 @@
 var countSheep = function (num){
   //your code here
   let sheepArr = [];
+  
   for (let i = 0; i < num; i++) {
     sheepArr.push((i+1) + " sheep...");
   }
