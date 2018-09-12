@@ -1,3 +1,3 @@
 # CodeWars-
-A repo for my katas.
+A repo for my katas. :japanese_castle:
 
