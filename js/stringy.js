@@ -1,0 +1,7 @@
+function stringy(size) {
+  let result = [];
+  for (let i = 0; i < size; i++) {
+    i % 2 ? result.push(0) : result.push(1);
+  }
+  return result.join("").toString();
+}
